@@ -50,7 +50,7 @@ Landing Page:
 
 Signing In Page:
 
-![](documentationResources/login.png)
+![](documentationResources/Signup.png)
 
 Login Page:
 
