@@ -46,7 +46,7 @@ This project also demonstrates:
 **Screenshots:**
 Landing Page:
 
-![](documentationResources/home.png)
+![](documentationResources/Home.png)
 
 Signing In Page:
 
@@ -115,11 +115,10 @@ Follow the following steps to get development environment running.
 * Install node modules #even though they are pre-installed run this command to check if they are up to date
 
    ```bash
-   cd SWADESHI AIRLINES
-   cd frontend
+   cd client
    npm install
    cd..
-   cd backend
+   cd server
    npm install
    ```
 
@@ -131,11 +130,11 @@ Follow the following steps to get development environment running.
   This command will start the mongodb and the front end part.
 
   ```bash
-  cd frontend
+  cd client
   npm start
   cd..
-  cd backend
-  npm run devStart
+  cd server
+  npm run Start
   ```
 
 
